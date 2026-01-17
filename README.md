@@ -20,7 +20,7 @@ The entire application is containerized.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/VamsiReddyTetali/payment-gateway.git
+   git clone https://github.com/praveen-kumar-07/payment-gateway.git
    cd payment-gateway
    ```
 
